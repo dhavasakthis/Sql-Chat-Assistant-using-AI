@@ -47,9 +47,6 @@ Output: Natural language (e.g., "Retrieve the names and ages of users who are ol
 Interactive Chat Interface:
 
 
-
-
-
 Users can input queries via a web or command-line interface.
 
 
@@ -59,9 +56,6 @@ Real-time responses with explanations or error feedback for invalid queries.
 
 
 Schema Awareness:
-
-
-
 
 
 The assistant can process database schema information to provide context-aware translations (e.g., understanding table and column relationships).
